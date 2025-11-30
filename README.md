@@ -2,7 +2,6 @@
 
 **Fast Pizza React** is a modern, responsive, and interactive pizza ordering web app built with **React**, **Redux Toolkit**, **Tailwind CSS**, and **Material UI**. It lets users browse a pizza menu, customize orders, track their cart, and place orders with real-time delivery estimation. Built for speed, UX, and smooth UI interactions.
 
-
 ---
 
 ## Features
